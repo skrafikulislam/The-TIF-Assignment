@@ -1,0 +1,18 @@
+.slick-prev:before {
+   position: absolute;
+  bottom: -18.8rem;
+  left: 36rem;
+}
+
+.slick-next:before {
+  position: absolute;
+  bottom: -18.8rem;
+  right: 36rem;
+ }
+
+.slick-prev:before,
+.slick-next:before {
+  color: black !important;
+}
+
+ 
